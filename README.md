@@ -35,5 +35,5 @@ If you are insterested in this work, and want to use the codes or results in thi
 }
 ```
 ## Acknowledgments
-We thank all authors from this two papers: 'Deep Open Intent Classification with Adaptive Decision Boundary' and 'MixText: Linguistically-Informed Interpolation of Hidden Space for Semi-Supervised Text Classification(https://github.com/GT-SALT/MixText)'. We adopt many codes from their projects. Thank a lot!
+We thank all authors from this two papers: 'Deep Open Intent Classification with Adaptive Decision Boundary' and '[MixText: Linguistically-Informed Interpolation of Hidden Space for Semi-Supervised Text Classification](https://github.com/GT-SALT/MixText)'. We adopt many codes from their projects. Thank a lot!
 
