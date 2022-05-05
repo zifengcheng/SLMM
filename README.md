@@ -2,7 +2,7 @@
 
 This repo contains the code of our TASLP'2022 paper:
 
-Learning to Classify Open Intent via Soft Labeling and Manifold Mixup
+[Learning to Classify Open Intent via Soft Labeling and Manifold Mixup](https://ieeexplore.ieee.org/document/9693239)
 
 ## Requirements
 
